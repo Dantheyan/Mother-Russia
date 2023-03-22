@@ -1,1 +1,1 @@
-# YoMama
+Hello, this is the first time I have done legitimate coding so please be wary of quality issues. It is essantially a small game I made for fun in about 2-3 hours on Microsoft Small Basic as it has more basic tools for me to use.
